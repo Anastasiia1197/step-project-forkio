@@ -48,6 +48,11 @@ $ npm install --global gulp-cli
 $ npm install
 ```
 
+> If you'll see some errors after 'npm install' command, please write 
+```shell 
+$ npm install --ignore-scripts
+``` 
+
 ### How to run local
 
 1. Open terminal.
